@@ -7,7 +7,7 @@
 *o* [**nome do produto**] </br>
 *é um* [**categoria do produto**] </br>
 *que* [**benefício-chave, razão para adquiri-lo**] </br>
-*Diferentemente da* [**alternativa da concorrência**] </nr>
+*Diferentemente da* [**alternativa da concorrência**] </br>
 *o nosso produto* [**diferença-chave**].
 
 ## Definição do Produto
